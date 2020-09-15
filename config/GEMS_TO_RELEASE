@@ -1,6 +1,7 @@
 {
     "management": [
-        "azure_mgmt_databoxedge"
+        "azure_mgmt_databoxedge",
+        "azure_mgmt_iot_hub"
     ],
     "rollup": [
         "azure_sdk"
