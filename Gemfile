@@ -48,6 +48,7 @@ gem 'azure_mgmt_data_factory',              path: 'management/azure_mgmt_data_fa
 gem 'azure_mgmt_deployment_manager',        path: 'management/azure_mgmt_deployment_manager'
 gem 'azure_mgmt_dev_spaces',                path: 'management/azure_mgmt_dev_spaces'
 gem 'azure_mgmt_devtestlabs',               path: 'management/azure_mgmt_devtestlabs'
+gem 'azure_mgmt_digital_twins',             path: 'management/azure_mgmt_digital_twins'
 gem 'azure_mgmt_dns',                       path: 'management/azure_mgmt_dns'
 gem 'azure_mgmt_edgegateway',               path: 'management/azure_mgmt_edgegateway'
 gem 'azure_mgmt_event_grid',                path: 'management/azure_mgmt_event_grid'
